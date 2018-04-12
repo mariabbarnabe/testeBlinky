@@ -1,0 +1,4 @@
+### Target: targets/adafruit_blinky
+target.app: "apps/blinky"
+target.bsp: "@apache-mynewt-core/hw/bsp/ada_feather_nrf52"
+target.build_profile: "debug"
